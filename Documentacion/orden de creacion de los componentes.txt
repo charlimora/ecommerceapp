@@ -1,0 +1,7 @@
+1. Home
+2. Announcement
+3. Navbar
+4. Slider (desde aquí se creó el archivo data.js).
+5. Categories (casi simultánteo que CategoryItem).
+6. CategoryItem (simultáneo con Categories, se trabajan primero sus estilos).
+7. Products

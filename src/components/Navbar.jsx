@@ -4,7 +4,7 @@ import styled from 'styled-components'
 import Badge from '@mui/material/Badge';
 
 const Container = styled.div`
-    height: 60px;
+    height: 60%;
     `;
 
 const Wrapper = styled.div`
