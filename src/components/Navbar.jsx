@@ -70,10 +70,10 @@ const Navbar = () => {
             <Search style= {{ color:'gray', fontsize:16 }}/>
           </SearchContainer>   
         </Left>
-        <Center><Logo>MoraSoft.</Logo></Center>
+        <Center><Logo>AndreuTech.</Logo></Center>
         <Right>
-          <MenuItem>REGISTER</MenuItem>
-          <MenuItem>SIGN IN</MenuItem>
+          <MenuItem>REGISTRO</MenuItem>
+          <MenuItem>INICIO DE SESIÓN</MenuItem>
           <MenuItem>
             <Badge badgeContent={4} color="primary">
               <ShoppingCartOutlined/>

@@ -15,7 +15,7 @@ const Container = styled.div`
 const Announcement = () => {
   return (
     <Container>
-      Super descuentos en la Tienda de Software del Profe Carlos
+      Grandes descuentos en nuestra Tienda Tecnológica
     </Container>
   )
 }

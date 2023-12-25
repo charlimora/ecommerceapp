@@ -5,3 +5,4 @@
 5. Categories (casi simultánteo que CategoryItem).
 6. CategoryItem (simultáneo con Categories, se trabajan primero sus estilos).
 7. Products
+8. Product
